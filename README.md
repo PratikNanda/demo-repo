@@ -4,4 +4,4 @@
 
 ## Subheader
 
-Watching tutorial on VLc.
+Watching tutorial on VLC.
